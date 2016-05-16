@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BestIn</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_serach">Serach</string>
+    <string name="title_activity_my_list">BEST IN</string>
+    <string name="title_activity_movie_description">BEST IN</string>
+</resources>
